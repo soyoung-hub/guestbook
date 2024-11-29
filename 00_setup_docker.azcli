@@ -1,0 +1,12 @@
+#1. 도커 데스크톱 다운로드
+https://hub.docker.com/editions/community/docker-ce-desktop-windows
+
+#2. 도커 데스크톱 설치
+
+#3. 도커 데스크톱 WSL2 설정 확인
+
+#4. 도커 환경 테스트 (Windows Terminal)
+docker images
+
+#5. docker 설치 확인 (WSL2)
+sudo docker version
