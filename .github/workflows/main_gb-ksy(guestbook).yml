@@ -59,4 +59,4 @@ jobs:
           app-name: 'gb-ksy'
           slot-name: 'guestbook'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_42007C8A90A043568329223A09C9BE00 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C109681302E04F298C558FAB84F63FCE }}
